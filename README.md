@@ -7,11 +7,6 @@ I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Scie
 - 🌱 I'm currently working on: [AI MedDiagnostics](https://github.com/Ayushkumawat/AI-MedDiagnostics)
 - 💬 Ask me about: Computer Vision, NLP, Machine Learning, Python, JavaScript
 
-
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumawat&layout=compact)]
-
 ## 📊 GitHub Stats
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushkumawat&show_icons=true&theme=radical)
@@ -34,11 +29,9 @@ I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Scie
 - IBM Applied Data Science Capstone
 - HackerRank Problem Solving Assessment
 
-## 🛠️ Skills
+## 📊 Top Languages
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Technologies**: PyTorch, OpenCV, Scikit-Learn, React.js
-- **Other Skills**: Communication, Management, Data Analysis
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumawat&layout=compact)]
 
 ### Technical Skills
 
