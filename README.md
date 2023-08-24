@@ -8,9 +8,17 @@ I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Scie
 - 💬 Ask me about: Computer Vision, NLP, Machine Learning, Python, JavaScript
 
 
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumawat&layout=compact)]
+
 ## 📊 GitHub Stats
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushkumawat&show_icons=true&theme=radical)
+
+## 👁️‍🗨️ Visitor Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushkumawat)
 
 ## 🎓 Education
 
