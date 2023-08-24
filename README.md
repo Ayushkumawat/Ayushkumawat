@@ -1,57 +1,62 @@
-# Hey, I'm Ayush Kumawat 👋
+# Hi there, I'm Ayush Kumawat! 👋
 
-I'm a passionate AI enthusiast and Data Science student. Welcome to my GitHub profile!
+## 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science at Sage University Indore
-- 🏆 NVIDIA Jetson AI Specialist
-- 🚀 Winner of Institute-level Solving for India Hackathon by Google Cloud and AMD
-- 🌐 [Portfolio](https://Ayushkumawat.github.io/)
-- 📧 Contact me: ayushkumawat2112@gmail.com | +91 - 9098984098
-- 🏢 Chairperson of ACM Student Chapter at Sage University
-- 📝 Published Patent: Voice - Automated Table Service System for Virtual Ordering
+I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Science (CSE) with a love for creating impactful software. My expertise lies in Computer Vision, NLP, and Machine Learning using PyTorch. I'm enthusiastic about tackling challenges and contributing to innovative projects that involve detection, prediction, and classification.
+
+- 🌱 I'm currently working on: [AI MedDiagnostics](https://github.com/Ayushkumawat/AI-MedDiagnostics)
+- 💬 Ask me about: Computer Vision, NLP, Machine Learning, Python, JavaScript
 
 ## 🔥 Featured Projects
 
-### AI-MedDiagnostics
-Web-based symptom tracker and disease prediction using ML models.
-![AI-MedDiagnostics](https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumawat&repo=AI-MedDiagnostics)
+### [AI MedDiagnostics](https://github.com/Ayushkumawat/AI-MedDiagnostics)
+AI MedDiagnostic is a web-based application that predicts disease likelihood based on symptoms. It leverages Machine Learning to provide insightful health information to users.
 
-### Bus Passenger Management
-QR code based smart-card technology for optimized bus passenger flow.
-![Bus Passenger Management](https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumawat&repo=Bus-Passenger-Management-using-Smart-Card-Technology)
+### [Bus Passenger Management](https://github.com/Ayushkumawat/Bus-Passenger-Management-using-Smart-Card-Technology)
+Revolutionizing local transportation with QR code-enabled smart cards and an interactive UI. Simplifying bus passenger management and optimizing transportation flow.
 
-### Advanced Aerial Drone Detection
-Real-time drone detection using YOLOv5 and OpenCV.
-![Advanced Aerial Drone Detection](https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumawat&repo=Advanced-Aerial-Drone-Detection-System)
+### [Advanced Aerial Drone Detection](https://github.com/Ayushkumawat/Advanced-Aerial-Drone-Detection-System)
+Real-time drone detection using YOLOv5 and OpenCV. Enhancing security by identifying drones within defined areas.
 
-### Attendance using Facial Recognition
-Automated attendance system using AI-based facial recognition.
-![Attendance using Facial Recognition](https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumawat&repo=Attendance-Using-Facial-Recognition)
+### [Attendance Using Facial Recognition](https://github.com/Ayushkumawat/Attendance-Using-Facial-Recognition)
+Automating attendance with facial recognition powered by AI. Streamlining the attendance process in educational settings.
 
-## 🚀 Achievements
+### [News Classification with NLP](https://github.com/Ayushkumawat/News-Classification-using-Natural-Language-Processing)
+Detecting genuine news from false news using NLP. Contributing to media credibility with machine learning.
 
-- NPTEL Data Structures & Algorithms: Scored 66%
-- HackerRank Problem Solving Assessment: Completed
-- IBM Applied Data Science Capstone: Completed
-- ACM Student Chapter Chairperson
-- Google Cloud & AMD Hackathon Winner
+### [Number Plate Detection](https://github.com/Ayushkumawat/Number-Plate-Detection-Advanced-using-Python)
+Accurate number plate detection using OpenCV and TensorFlow. Enabling automation for vehicle data collection.
+
+## 🌐 Connect with Me
+
+[![Website](https://img.shields.io/badge/Website-Ayushkumawat.github.io-blue)](https://Ayushkumawat.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumawat-blue)](https://www.linkedin.com/in/ayush-kumawat)
+[![Email](https://img.shields.io/badge/Email-ayushkumawat2112%40gmail.com-green)](mailto:ayushkumawat2112@gmail.com)
+
+## 📊 GitHub Stats
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushkumawat&show_icons=true&theme=radical)
 
 ## 🛠️ Skills
 
-- Machine Learning: Python, PyTorch
-- Computer Vision: OpenCV
-- Natural Language Processing: NLP
-- Web Development: HTML, CSS, JavaScript, React.js
-- Data Analysis: Pandas, Scikit-Learn
-- Databases: SQL
-- Version Control: Git
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Technologies**: PyTorch, OpenCV, Scikit-Learn, React.js
+- **Other Skills**: Communication, Management, Data Analysis
 
-## 📈 GitHub Stats
+## 🎓 Education
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushkumawat&show_icons=true&theme=dark)
+- B.Tech in Artificial Intelligence & Data Science (CSE)
+  - Sage University Indore, 2020-2024
+  - CGPA: 8.5
 
-## 🌍 Connect with Me
+## 📜 Achievements & Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ayush-kumawat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-success)](https://Ayushkumawat.github.io/)
+- NPTEL - Data Structures & Algorithms: Scored 66%
+- NVIDIA Jetson AI Specialist
+- Google Cloud & AMD - Solving for India Hackathon Winner
+- IBM Applied Data Science Capstone
+- HackerRank Problem Solving Assessment
 
+## 🧠 Objective
+
+As a dedicated AI and Data Science student, I'm driven by my passion for creating software solutions that make a real impact. I'm seeking challenging roles to contribute my skills and knowledge while continuously learning and growing in the field.
