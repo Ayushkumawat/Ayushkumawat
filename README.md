@@ -7,21 +7,10 @@ I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Scie
 - 🌱 I'm currently working on: [AI MedDiagnostics](https://github.com/Ayushkumawat/AI-MedDiagnostics)
 - 💬 Ask me about: Computer Vision, NLP, Machine Learning, Python, JavaScript
 
-## 🌐 Connect with Me
-
-[![Website](https://img.shields.io/badge/Website-Ayushkumawat.github.io-blue)](https://Ayushkumawat.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumawat-blue)](https://www.linkedin.com/in/ayush-kumawat)
-[![Email](https://img.shields.io/badge/Email-ayushkumawat2112%40gmail.com-green)](mailto:ayushkumawat2112@gmail.com)
 
 ## 📊 GitHub Stats
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushkumawat&show_icons=true&theme=radical)
-
-## 🛠️ Skills
-
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Technologies**: PyTorch, OpenCV, Scikit-Learn, React.js
-- **Other Skills**: Communication, Management, Data Analysis
 
 ## 🎓 Education
 
@@ -37,6 +26,14 @@ I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Scie
 - IBM Applied Data Science Capstone
 - HackerRank Problem Solving Assessment
 
-## 🧠 Objective
+## 🛠️ Skills
 
-As a dedicated AI and Data Science student, I'm driven by my passion for creating software solutions that make a real impact. I'm seeking challenging roles to contribute my skills and knowledge while continuously learning and growing in the field.
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Technologies**: PyTorch, OpenCV, Scikit-Learn, React.js
+- **Other Skills**: Communication, Management, Data Analysis
+
+## 🌐 Connect with Me
+
+[![Website](https://img.shields.io/badge/Website-Ayushkumawat.github.io-blue)](https://Ayushkumawat.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumawat-blue)](https://www.linkedin.com/in/ayush-kumawat)
+[![Email](https://img.shields.io/badge/Email-ayushkumawat2112%40gmail.com-green)](mailto:ayushkumawat2112@gmail.com)
