@@ -5,7 +5,7 @@
 I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Science (CSE) with a love for creating impactful software. My expertise lies in Computer Vision, NLP, and Machine Learning using PyTorch. I'm enthusiastic about tackling challenges and contributing to innovative projects that involve detection, prediction, and classification.
 
 - 🌱 I'm currently working on: [AI MedDiagnostics](https://github.com/Ayushkumawat/AI-MedDiagnostics)
-- 💬 Ask me about: Computer Vision, NLP, Machine Learning, Python, JavaScript
+- 💬 Ask me about: Artificial Intelligence, NLP, Machine Learning, Python
 
 ## 📊 GitHub Stats
 
@@ -19,15 +19,7 @@ I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Scie
 
 - B.Tech in Artificial Intelligence & Data Science (CSE)
   - Sage University Indore, 2020-2024
-  - CGPA: 8.5
-
-## 📜 Achievements & Certifications
-
-- NPTEL - Data Structures & Algorithms: Scored 66%
-- NVIDIA Jetson AI Specialist
-- Google Cloud & AMD - Solving for India Hackathon Winner
-- IBM Applied Data Science Capstone
-- HackerRank Problem Solving Assessment
+  - CGPA: 8.56
 
 ## 📊 Top Languages
 
