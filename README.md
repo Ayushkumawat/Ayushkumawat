@@ -4,7 +4,7 @@
 
 I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Science (CSE) with a love for creating impactful software. My expertise lies in Computer Vision, NLP, and Machine Learning using PyTorch. I'm enthusiastic about tackling challenges and contributing to innovative projects that involve detection, prediction, and classification.
 
-- 🌱 I'm currently working on: [AI MedDiagnostics](https://github.com/Ayushkumawat/AI-MedDiagnostics)
+- 🌱 I'm currently working on: [Vision Language Model for Dietary Analysis](https://github.com/Ayushkumawat/Vision-Language-Model-for-Dietary-Analysis)
 - 💬 Ask me about: Artificial Intelligence, NLP, Machine Learning, Python
 
 ## 📊 GitHub Stats
