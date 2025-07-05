@@ -19,7 +19,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Ayushkumawat/count.svg" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkumawat" alt="ayushkumawat" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushkumawat&column=9&margin-w=15&margin-h=15&no-bg=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
