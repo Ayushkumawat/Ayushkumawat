@@ -39,7 +39,7 @@
 - 🥇 Winner, *Solving for India Hackathon* – Google Cloud, AMD, GeeksforGeeks  
 - 🧠 NVIDIA Jetson AI Specialist  
 - 📊 IBM Applied Data Science Capstone  
-- 🎓 IELTS Academic Band 7.5 (C1)
+- 🎓 IELTS Academic Band 7.5 | CEFR Level: C1
 
 ---
 
