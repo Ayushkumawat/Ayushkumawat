@@ -1,49 +1,58 @@
-# Hi there, I'm Ayush Kumawat! 👋
+# 👋 Hi there, I'm **Ayush Kumawat**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ayush-kumawat/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=google-chrome&style=flat-square)](https://www.ayushkumawat.us) 
+[![GitHub](https://img.shields.io/badge/GitHub-Ayushkumawat-black?logo=github&style=flat-square)](https://github.com/Ayushkumawat)  
+
+🎓 **B.Tech (Hons.) Data Science & AI (CSE)** | Sage University | CGPA: 8.6  
+📫 Reach me at: **ayushkumawat2112@gmail.com** | 📱 +91-9098984098
 
 ## 🚀 About Me
 
-I'm a passionate B.Tech. student majoring in Artificial Intelligence & Data Science (CSE) with a love for creating impactful software. My expertise lies in Computer Vision, NLP, and Machine Learning using PyTorch. I'm enthusiastic about tackling challenges and contributing to innovative projects that involve detection, prediction, and classification.
+🌟 AI/ML Engineer | Generative AI Enthusiast | Published Researcher | 2x Patent Holder  
+🔍 I’m passionate about building **scalable, production-ready AI products** — from Generative AI platforms and RAG pipelines to real-time voice assistants and computer vision systems.  
+⚡ I enjoy designing end-to-end solutions that combine research, engineering, and user-focused product thinking.
 
-- 🌱 I'm currently working on: [Vision Language Model for Dietary Analysis](https://github.com/Ayushkumawat/Vision-Language-Model-for-Dietary-Analysis)
-- 💬 Ask me about: Artificial Intelligence, NLP, Machine Learning, Python
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Ayushkumawat/count.svg" />
+</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkumawat" alt="ayushkumawat" /></a> </p>
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, JavaScript (React.js), SQL
+- **Frameworks & Libraries:** FastAPI, Flask, LangChain, OpenCV, YOLO, Hugging Face
+- **AI & ML:** LLMs, RAG Pipelines, Prompt Engineering, Computer Vision, Generative AI
+- **Cloud & Deployment:** AWS, GCP, NVIDIA Jetson, Ngrok
+- **Databases:** PostgreSQL, Redis, Upstash, ChromaDB, Qdrant
+- **APIs & Platforms:** Gemini APIs, OpenAI, ElevenLabs TTS/STT, Google Agent SDK
+
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+## 🏆 Achievements & Certifications
+
+- 🥇 Winner, *Solving for India Hackathon* – Google Cloud, AMD, GeeksforGeeks  
+- 🧠 NVIDIA Jetson AI Specialist  
+- 📊 IBM Applied Data Science Capstone  
+- 🎓 IELTS Academic Band 7.5 (C1)
+
+---
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushkumawat&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkumawat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumawat&layout=compact&theme=tokyonight" />
+</p>
 
-## 👁️‍🗨️ Visitor Counter
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayushkumawat)
+> 💡 *Let’s build AI that works for billions. Open to collaborations & opportunities in AI/ML, GenAI, and research-driven products.*
 
-## 🎓 Education
+---
 
-- B.Tech in Artificial Intelligence & Data Science (CSE)
-  - Sage University Indore, 2020-2024
-  - CGPA: 8.56
-
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumawat&layout=compact)]
-
-### Technical Skills
-
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-Advanced-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge&logo=css3)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-orange?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-blue?style=for-the-badge&logo=opencv)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Intermediate-yellow?style=for-the-badge&logo=scikit-learn)
-![React.js](https://img.shields.io/badge/React.js-Intermediate-blue?style=for-the-badge&logo=react)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Intermediate-yellow?style=for-the-badge)
-
-### Other Skills
-
-![Communication](https://img.shields.io/badge/Communication-Advanced-green?style=for-the-badge)
-![Management](https://img.shields.io/badge/Management-Advanced-green?style=for-the-badge)
-
-## 🌐 Connect with Me
-
-[![Website](https://img.shields.io/badge/Website-Ayushkumawat.github.io-blue)](https://Ayushkumawat.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumawat-blue)](https://www.linkedin.com/in/ayush-kumawat)
-[![Email](https://img.shields.io/badge/Email-ayushkumawat2112%40gmail.com-green)](mailto:ayushkumawat2112@gmail.com)
